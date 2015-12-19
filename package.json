@@ -1,0 +1,22 @@
+{
+  "name": "take-screenshot",
+  "version": "1.0.0",
+  "description": "takes a screen shot of all msdn.microsoft.com homepages and specified CLE pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Nick Blexrud (nblexrud@societyconsulting.com)",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.2.1",
+    "azure-storage": "^0.4.5",
+    "bunyan": "^1.4.0",
+    "bunyan-slack": "0.0.10",
+    "moment": "^2.10.3",
+    "q": "^1.4.1",
+    "underscore": "^1.8.3",
+    "webshot": "^0.16.0"
+  }
+}
