@@ -1,7 +1,7 @@
 # Take Screenshot
 
 
-The purpose of this script is to take screenshots of a given URL across multiple countries and short ids, and upload them to an Azure container.
+The purpose of this script is to take screenshots of a given URL across multiple countries and short ids, and upload them to an Azure storage container.
 
 For example:
 
